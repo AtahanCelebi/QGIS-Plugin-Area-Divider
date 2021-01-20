@@ -1,5 +1,5 @@
 # QGIS-Plugin-Area-Divider
-This Qgis plugin divides the areas into 2 section and shows the lower and the bigger part in color
+This Qgis plugin divides the areas into 2 section and shows the lower and the bigger part in color <br>
 Take a quick look at <a href='https://qgis-plugin-area-divider.readthedocs.io/en/latest/unittest.html'>documentation</a>
 <h1>QGIS Plugin Group-4&nbsp; <img style="font-size: 14px;" src="https://i.etsystatic.com/17718806/r/il/b5be51/1595306072/il_570xN.1595306072_tbgq.jpg" alt="W3Schools" width="47" height="47" border="0" /></h1>
 <p>&nbsp;</p>
