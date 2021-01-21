@@ -14,6 +14,13 @@ QGIS Plugin Area Divider
 
 This **unit test** work for the layer if it has been added or not and check its suitability
 
+**Test Layer Transaction**
+-Qgis Project instance/Add map layer whether layer exist
+-try/except raise error if not exist could not pass unit test
+
+**Test Load Layer**
+-Read the layer
+-If None could not pass unit test
 
 **Here is the all code that we implement**::
 
